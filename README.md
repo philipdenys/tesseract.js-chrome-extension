@@ -13,7 +13,8 @@ $ git clone https://github.com/jeromewu/tesseract.js-chrome-extension.git
 ```
 
 2. Visit [chrome://extensions/](chrome://extensions/)
-3. Click **Load unpacked** and choose the root of this repository
+3. Swith on developer mode (top right)
+4. Click **Load unpacked** and choose the root of this repository
 
 ## Assets Download URL
 
